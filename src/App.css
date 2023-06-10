@@ -6,7 +6,10 @@ body {
     rgba(7, 27, 82, 1) 0%,
     rgba(0, 128, 128, 1) 100%
   );
-  /* background-color: green; */
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
 }
 #fontface {
   font-family: UltaViolet bb;
